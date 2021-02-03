@@ -1,0 +1,17 @@
+{
+  "commitish" : "1.1.0",
+  "iOS" : [
+    {
+      "name" : "YYCache",
+      "hash" : "80dfd445865f84facb04764e0a05e9356c0262bfd6beb917f547b6ffad7fbf48",
+      "linking" : "dynamic"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "YYCache",
+      "hash" : "7fd9db1ecc5994f3a03c23d46006af43b6ba32dd4ede4660ce2441f6d2fed901",
+      "linking" : "dynamic"
+    }
+  ]
+}

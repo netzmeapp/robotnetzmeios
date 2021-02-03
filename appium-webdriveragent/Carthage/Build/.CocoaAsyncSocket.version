@@ -1,0 +1,17 @@
+{
+  "commitish" : "72e0fa9e62d56e5bbb3f67e9cfd5aa85841735bc",
+  "iOS" : [
+    {
+      "name" : "CocoaAsyncSocket",
+      "hash" : "dfbdbcf697d8992ea1998915fc6752a927d740d0110282f010c6c0ef28e18889",
+      "linking" : "dynamic"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "CocoaAsyncSocket",
+      "hash" : "8105d5c570019d9c11897be31ea572655c56a4f1825c187b86afaff155ee77e6",
+      "linking" : "dynamic"
+    }
+  ]
+}
